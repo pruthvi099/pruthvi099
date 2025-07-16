@@ -42,19 +42,29 @@
 
 ---
 
-### 📌 Current Projects
+### 📌 Current & Upcoming Projects
 
-- 🧑‍💻 **Employee Management System** – Django + Bootstrap + SQLite  
-- 🔗 **Flask CRUD API** – MySQL + Flask + Postman  
-- ☁️ **AWS EC2 Hosting** – Hosting Flask app on Amazon Linux EC2  
-- 📦 **S3 Image Uploader** – Python app to upload files to S3 securely
+- 🛡️ **Role-Based User Management in Django**  
+  Django + Tailwind CSS + MySQL – Secure authentication with role-based dashboards
+
+- 🗄️ **Full-Stack File Manager (Coming Soon)**  
+  Django + Tailwind CSS + MySQL – Upload, manage, filter, and share files with S3 integration
+
+- 🌐 **Portfolio Website (Coming Soon)**  
+  Built with Django & Tailwind CSS to showcase my work
+
+- ☁️ **AWS EC2 Hosting**  
+  Hosting Flask apps on Amazon EC2 (Linux Instance)
+
+- 📦 **S3 Image Uploader**  
+  Python application to upload files securely to **AWS S3**
 
 ---
 
 ### 📫 Connect With Me
 
 - 📧 Email: `pruthvi9931@gmail.com`  
-- 💼 LinkedIn: www.linkedin.com/in/pruthvirajpatankar   
+- 💼 LinkedIn: [linkedin.com/in/pruthvirajpatankar](https://www.linkedin.com/in/pruthvirajpatankar)  
 - 🌐 Portfolio: [Coming Soon](#)
 
 ---
