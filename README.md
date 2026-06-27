@@ -1,75 +1,90 @@
-<h1 align="center">Hi there 👋, I'm Pruthviraj Patankar</h1>
+<h1 align="center">Pruthviraj Patankar</h1>
+<p align="center"><b>QA Automation Engineer</b> — Playwright · Python · pytest · API & Mobile Testing</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=💻+Learning+Python%2C+Flask%2C+Django;🌐+Web+Development+with+HTML%2C+CSS%2C+TailwindCSS;☁️+Exploring+AWS%3A+EC2%2C+S3%2C+IAM;🚀+Building+Projects+to+Learn+Better" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/pruthvirajpatankar">LinkedIn</a> ·
+  <a href="mailto:pruthvi9931@gmail.com">pruthvi9931@gmail.com</a> ·
+  Pune, India
 </p>
 
----
+<br/>
 
-### 👨‍💻 About Me
+## About
 
-- 🔭 I’m currently learning **Python, Flask, Django**
-- 🌐 Frontend: **HTML5, CSS3, TailwindCSS**
-- ☁️ Exploring **AWS** services like **EC2**, **S3**, **IAM**, and **RDS**
-- 💡 Building full-stack projects to strengthen concepts
-- 🎯 Goal: Become a skilled backend developer & cloud practitioner
+I build test automation for production systems — not demo apps. Currently a Junior Software Quality Analyst at Visaero, where I designed and built a Playwright + pytest framework from scratch for a high-volume B2B visa platform, covering UI workflows, REST/SOAP API validation, and Android/iOS regression.
 
----
+My focus is automation that survives contact with reality: flaky tests fixed at the root cause rather than retried into silence, CI pipelines fast enough that teams don't route around them, and coverage decisions driven by business risk rather than test count. I'm completing an MBA in Business Analytics to formalize that risk-based lens.
 
-### 🛠️ Tech Stack
+This page is maintained as a working record, not a one-time portfolio post — I commit here daily.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+<br/>
 
----
+## Experience
 
-### 📊 GitHub Stats
+**Junior Software Quality Analyst** · Visaero Pvt. Ltd. · *Nov 2024 – Present*
+
+Built a Playwright + pytest automation framework (OOP, Page Object Model) for bulk visa application workflows.
+
+- Cut manual regression time by **60%** and CI suite runtime by **35%**
+- Designed a checkpoint-based flow control system to validate acceptance criteria at each stage of a multi-step application process
+- Resolved a recurring class of flaky-test failures via fuzzy document-label matching across 10+ visa types, with no changes to existing test scripts
+- Tested REST/SOAP services and JWT/OAuth flows; authored 80+ automated API test cases
+- Owned Android & iOS mobile QA across smoke, sanity, and regression cycles
+
+**Software Engineer – QA** · Technopuls Insights System Pvt. Ltd. · *Nov 2023 – Oct 2024*
+
+- Root-caused geolocation and fare-calculation defects on a ride-hailing platform, contributing to a **20% reduction** in fare errors post-release
+- Validated fare data against 100K+ historical records via SQL prior to go-live
+
+*Production codebases for client work are private. Personal and practice repositories are listed below under Projects.*
+
+<br/>
+
+## Stack
+
+| | |
+|---|---|
+| **Testing & Automation** | Playwright, pytest, Selenium, TestNG, Postman, Cucumber/BDD |
+| **Languages & Data** | Python, TypeScript, SQL, JSON |
+| **CI/CD & Tools** | GitHub Actions, GitLab CI, Jenkins, Docker, Git |
+| **QA Tooling** | JIRA, Confluence, Allure Report |
+
+<br/>
+
+## Projects
+
+**ShopSense — E-Commerce QA Automation Suite**
+`Selenium · pytest · MySQL · Docker · GitLab CI`
+End-to-end automation across UI, API (REST/SOAP), and database layers for an e-commerce flow — search, cart, checkout, order tracking. 120+ test cases spanning unit, smoke, regression, integration, and API layers.
+
+**Mini API Test Framework** *(in progress)*
+`Python · pytest · Postman/requests`
+A lightweight, reusable API test framework demonstrating the patterns used in production work, built from the ground up without proprietary code.
+
+**CI/CD Test Pipeline Demo** *(planned)*
+`GitHub Actions · Docker · Allure`
+A from-scratch pipeline showing automated test execution and Allure reporting triggered on every pull request.
+
+<br/>
+
+## Currently Learning
+
+- API contract testing and schema validation
+- Test architecture patterns for large-scale regression suites
+- Applying business-risk prioritization to test coverage decisions
+
+<br/>
+
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi099&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi099&theme=default&hide_border=true" width="48%" />
 </p>
 
----
+<br/>
 
-### 📌 Current & Upcoming Projects
-
-- 🛡️ **Role-Based User Management in Django**  
-  Django + Tailwind CSS + MySQL – Secure authentication with role-based dashboards
-
-- 🗄️ **Full-Stack File Manager (Coming Soon)**  
-  Django + Tailwind CSS + MySQL – Upload, manage, filter, and share files with S3 integration
-
-- 🌐 **Portfolio Website (Coming Soon)**  
-  Built with Django & Tailwind CSS to showcase my work
-
-- ☁️ **AWS EC2 Hosting**  
-  Hosting Flask apps on Amazon EC2 (Linux Instance)
-
-- 📦 **S3 Image Uploader**  
-  Python application to upload files securely to **AWS S3**
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: `pruthvi9931@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/pruthvirajpatankar](https://www.linkedin.com/in/pruthvirajpatankar)  
-- 🌐 Portfolio: [Coming Soon](#)
-
----
-
-### 💡 Fun Developer Fact
-
-```text
-TailwindCSS makes styling feel like building Lego blocks. 🔧🧱
+<p align="center">
+  <a href="https://www.linkedin.com/in/pruthvirajpatankar">LinkedIn</a> ·
+  <a href="mailto:pruthvi9931@gmail.com">Email</a>
+</p>
