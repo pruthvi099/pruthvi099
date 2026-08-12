@@ -1,5 +1,8 @@
 <h1 align="center">Pruthviraj Patankar</h1>
-<h3 align="center">SDET / QA Automation Engineer — Playwright · TypeScript · Python</h3>
+
+<h3 align="center">
+SDET / QA Automation Engineer — Playwright · TypeScript · Python
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pruthvirajpatankar">
@@ -14,8 +17,8 @@
 </p>
 
 <p align="center">
-  QA Automation Engineer specializing in Playwright, TypeScript, Python, API testing,
-  and scalable test automation frameworks.
+  QA Automation Engineer specializing in Playwright, TypeScript, Python,
+  API testing, and scalable test automation frameworks.
 </p>
 
 ---
@@ -27,8 +30,9 @@ and scalable test automation for web applications and APIs.
 
 At **Visaero**, I work on automation for a B2B visa platform, building and maintaining
 a **Python + Playwright + Pytest** automation framework using the **Page Object Model (POM)**.
+
 My work covers end-to-end workflow automation, API validation, database checks,
-document/OCR validation, structured logging, and test reporting.
+document/OCR validation, structured logging, debugging, and test reporting.
 
 My current focus is strengthening my **TypeScript + Playwright** stack and building
 modern automation frameworks with **API testing, CI/CD, Docker, parallel execution,
@@ -49,7 +53,7 @@ to execution, debugging, reporting, and continuous improvement.
 
 **Playwright · Pytest · Page Object Model · API Testing · Cross-Browser Testing · Parallel Execution · BDD/Cucumber**
 
-### API
+### API Testing
 
 **REST API · Postman · JSON Validation · API Assertions · JWT/OAuth**
 
@@ -82,20 +86,20 @@ to execution, debugging, reporting, and continuous improvement.
 ## 🔧 Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Allure-FF6A00?style=flat-square&logo=allure&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-FF6A00?style=flat-square&logo=allure&logoColor=white" />
 </p>
 
 ---
@@ -110,16 +114,16 @@ End-to-end automation framework for a multi-stage visa application workflow.
 
 **Key capabilities:**
 
-* Page Object Model architecture
-* End-to-end workflow automation
-* JSON-driven test data
-* State-based workflow handling
-* Custom data distribution and resolution logic
-* Browser automation with Playwright
-* Structured execution logging
-* Test result reporting
-* Document/OCR validation
-* Reusable automation utilities
+- Page Object Model architecture
+- End-to-end workflow automation
+- JSON-driven test data
+- State-based workflow handling
+- Custom data distribution and resolution logic
+- Browser automation with Playwright
+- Structured execution logging
+- Test result reporting
+- Document/OCR validation
+- Reusable automation utilities
 
 ---
 
@@ -131,17 +135,17 @@ Modern UI and API automation framework designed around scalable test architectur
 
 **Key capabilities:**
 
-* TypeScript + Playwright
-* Page Object Model
-* UI and REST API automation
-* API response validation
-* SQL-backed data validation
-* Reusable fixtures and utilities
-* Cross-browser testing
-* Parallel test execution
-* Docker-based execution
-* CI/CD integration using GitHub Actions
-* Automated test reporting
+- TypeScript + Playwright
+- Page Object Model
+- UI and REST API automation
+- API response validation
+- SQL-backed data validation
+- Reusable fixtures and utilities
+- Cross-browser testing
+- Parallel test execution
+- Docker-based execution
+- CI/CD integration using GitHub Actions
+- Automated test reporting
 
 ---
 
@@ -151,24 +155,26 @@ A continuously evolving knowledge base covering practical QA and SDET concepts.
 
 **Topics include:**
 
-`Manual Testing` · `Playwright` · `TypeScript` · `Python` · `API Testing` · `SQL`
-· `CI/CD` · `Git/GitHub` · `Docker` · `Test Framework Design` · `AI Testing`
+`Manual Testing` · `Playwright` · `TypeScript` · `Python` · `API Testing` · `SQL`  
+`CI/CD` · `Git/GitHub` · `Docker` · `Test Framework Design` · `AI Testing`
 
 The goal is to document concepts in a practical format:
 
 **What it is → Why it matters → Example → Common Pitfalls → References**
 
-
+---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi099&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&count_private=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&hide_border=true&langs_count=8"
+  />
 </p>
 
 ---
