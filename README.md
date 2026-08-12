@@ -163,6 +163,7 @@ The goal is to document concepts in a practical format:
 **What it is → Why it matters → Example → Common Pitfalls → References**
 
 ---
+---
 
 ## 📊 GitHub Activity
 
@@ -171,9 +172,16 @@ The goal is to document concepts in a practical format:
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&count_private=true"
   />
+
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&theme=default&hide_border=true&langs_count=8"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=pruthvi099&theme=default&hide_border=true"
   />
 </p>
 
