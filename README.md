@@ -17,29 +17,57 @@ SDET / QA Automation Engineer — Playwright · TypeScript · Python
 </p>
 
 <p align="center">
-  QA Automation Engineer specializing in Playwright, TypeScript, Python,
-  API testing, and scalable test automation frameworks.
+  QA Automation Engineer focused on Playwright, TypeScript, Python, API testing,
+  and scalable automation frameworks.
 </p>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 I'm a **QA Automation Engineer / SDET** focused on building reliable, maintainable,
 and scalable test automation for web applications and APIs.
 
-At **Visaero**, I work on automation for a B2B visa platform, building and maintaining
-a **Python + Playwright + Pytest** automation framework using the **Page Object Model (POM)**.
+Currently at **Visaero**, I work on automation for a B2B visa platform, developing and
+maintaining a **Python + Playwright + Pytest** automation framework using the
+**Page Object Model (POM)**.
 
-My work covers end-to-end workflow automation, API validation, database checks,
-document/OCR validation, structured logging, debugging, and test reporting.
+My work includes:
 
-My current focus is strengthening my **TypeScript + Playwright** stack and building
-modern automation frameworks with **API testing, CI/CD, Docker, parallel execution,
-and scalable test architecture**.
+* End-to-end workflow automation
+* UI and API validation
+* Database/data validation
+* Document and OCR validation
+* JSON-driven test data
+* Reusable automation utilities
+* Structured logging and debugging
+* Test reporting and failure analysis
+* Maintaining scalable automation architecture
 
-I enjoy working beyond individual test cases — from framework design and test strategy
-to execution, debugging, reporting, and continuous improvement.
+I'm also strengthening my **TypeScript + Playwright** expertise and building modern
+automation frameworks with **API testing, CI/CD, Docker, parallel execution,
+cross-browser testing, and scalable test architecture**.
+
+I enjoy working beyond writing test cases — from **framework design and test strategy
+to execution, debugging, reporting, and continuous improvement**.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Playwright + TypeScript
+        ↓
+UI Automation + API Testing
+        ↓
+Framework Design + POM
+        ↓
+Parallel & Cross-Browser Execution
+        ↓
+CI/CD + GitHub Actions
+        ↓
+Docker + Scalable Test Architecture
+```
 
 ---
 
@@ -47,39 +75,46 @@ to execution, debugging, reporting, and continuous improvement.
 
 ### Languages
 
-**TypeScript · JavaScript · Python · SQL**
+`TypeScript` `JavaScript` `Python` `SQL`
 
 ### Automation & Testing
 
-**Playwright · Pytest · Page Object Model · API Testing · Cross-Browser Testing · Parallel Execution · BDD/Cucumber**
+`Playwright` `Pytest` `Page Object Model` `API Testing`
+`Cross-Browser Testing` `Parallel Execution` `BDD / Cucumber`
 
 ### API Testing
 
-**REST API · Postman · JSON Validation · API Assertions · JWT/OAuth**
+`REST API` `Postman` `JSON Validation` `API Assertions`
+`JWT / OAuth`
 
-### Manual Testing
+### Manual & Functional Testing
 
-**Functional Testing · Regression Testing · Smoke Testing · Sanity Testing · Integration Testing · UAT · Mobile Testing · OCR / Document Testing**
+`Functional Testing` `Regression Testing` `Smoke Testing`
+`Sanity Testing` `Integration Testing` `UAT`
+`Mobile Testing` `OCR / Document Testing`
 
-### Databases
+### Database
 
-**SQL · Data Validation · Database Testing**
+`SQL` `Database Testing` `Data Validation`
 
 ### CI/CD & DevOps
 
-**Git · GitHub · GitHub Actions · Docker · Jenkins**
+`Git` `GitHub` `GitHub Actions` `Docker` `Jenkins`
 
 ### Reporting & Debugging
 
-**Allure Reports · HTML Reports · Structured Logging · Trace Analysis**
+`Allure Reports` `HTML Reports` `Structured Logging`
+`Trace Analysis` `Failure Analysis`
 
 ### Methodologies
 
-**Agile Scrum · SDLC · STLC · Defect Life Cycle · Root Cause Analysis**
+`Agile Scrum` `SDLC` `STLC` `Defect Life Cycle`
+`Root Cause Analysis`
 
 ### AI-Assisted Testing
 
-**GitHub Copilot · Prompt Engineering · AI-Assisted Test Design**
+`GitHub Copilot` `Prompt Engineering`
+`AI-Assisted Test Design`
 
 ---
 
@@ -106,66 +141,81 @@ to execution, debugging, reporting, and continuous improvement.
 
 ## 🚀 Featured Projects
 
-### 1. Bulk Visa Application Automation Framework
+### 1. Professional Project — Bulk Visa Application Automation
 
 **Python · Playwright · Pytest · POM**
 
-End-to-end automation framework for a multi-stage visa application workflow.
+Automation framework developed for a multi-stage B2B visa application workflow.
 
-**Key capabilities:**
+#### Key Capabilities
 
-- Page Object Model architecture
-- End-to-end workflow automation
-- JSON-driven test data
-- State-based workflow handling
-- Custom data distribution and resolution logic
-- Browser automation with Playwright
-- Structured execution logging
-- Test result reporting
-- Document/OCR validation
-- Reusable automation utilities
+* Page Object Model architecture
+* End-to-end workflow automation
+* JSON-driven test data
+* State-based workflow handling
+* Custom data distribution and resolution logic
+* Playwright browser automation
+* Reusable automation utilities
+* Structured execution logging
+* Test result reporting
+* Document/OCR validation
+* Debugging and failure analysis
 
 ---
 
-### 2. REST API & UI Test Automation Framework
+### 2. REST API & UI Automation Framework
 
-**TypeScript · Playwright · API · Docker · GitHub Actions**
+**TypeScript · Playwright · API · SQL · Docker · GitHub Actions**
 
-Modern UI and API automation framework designed around scalable test architecture.
+A modern automation framework designed around maintainability,
+reusability, and scalable test execution.
 
-**Key capabilities:**
+#### Key Capabilities
 
-- TypeScript + Playwright
-- Page Object Model
-- UI and REST API automation
-- API response validation
-- SQL-backed data validation
-- Reusable fixtures and utilities
-- Cross-browser testing
-- Parallel test execution
-- Docker-based execution
-- CI/CD integration using GitHub Actions
-- Automated test reporting
+* TypeScript + Playwright
+* Page Object Model
+* UI and REST API automation
+* API response validation
+* SQL-backed data validation
+* Reusable fixtures and utilities
+* Cross-browser testing
+* Parallel test execution
+* Docker-based execution
+* GitHub Actions CI/CD
+* Automated test reporting
 
 ---
 
 ## 📚 QA Essential Notes
 
-A continuously evolving knowledge base covering practical QA and SDET concepts.
+A continuously evolving knowledge base covering practical **QA and SDET concepts**.
 
-**Topics include:**
+### Topics
 
-`Manual Testing` · `Playwright` · `TypeScript` · `Python` · `API Testing` · `SQL`  
-`CI/CD` · `Git/GitHub` · `Docker` · `Test Framework Design` · `AI Testing`
+`Manual Testing` · `Playwright` · `TypeScript` · `Python`
+`API Testing` · `SQL` · `CI/CD` · `Git/GitHub`
+`Docker` · `Test Framework Design` · `AI Testing`
 
-The goal is to document concepts in a practical format:
+### Documentation Format
 
-**What it is → Why it matters → Example → Common Pitfalls → References**
+```text
+What it is
+     ↓
+Why it matters
+     ↓
+Practical Example
+     ↓
+Common Pitfalls
+     ↓
+References
+```
+
+The goal is to build a practical, searchable knowledge base that can be used for
+**learning, interview preparation, framework development, and real-world testing**.
 
 ---
----
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img
@@ -173,10 +223,11 @@ The goal is to document concepts in a practical format:
     src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&count_private=true"
   />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&theme=default&hide_border=true&langs_count=8"
-  />
+<img
+ height="165"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&theme=default&hide_border=true&langs_count=8"
+/>
+
 </p>
 
 <p align="center">
@@ -186,6 +237,29 @@ The goal is to document concepts in a practical format:
 </p>
 
 ---
+
+## 🧠 What I'm Building
+
+* Scalable Playwright automation frameworks
+* TypeScript-based UI + API automation
+* Reusable test architecture
+* CI/CD-integrated automation
+* Docker-based test execution
+* Parallel and cross-browser testing
+* Practical QA/SDET documentation
+* AI-assisted testing workflows
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/pruthvirajpatankar">LinkedIn</a>
+  •
+  <a href="https://github.com/pruthvi099">GitHub</a>
+  •
+  <a href="mailto:pruthvi9931@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <b>Build. Automate. Test. Improve. 🚀</b>
