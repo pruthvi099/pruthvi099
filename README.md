@@ -262,5 +262,5 @@ The goal is to build a practical, searchable knowledge base that can be used for
 </p>
 
 <p align="center">
-  <b>Build. Automate. Test. Improve. 🚀</b>
+  <b>Build. Automate. Test. Improve. 🚀🔁💻♥️</b>
 </p>
