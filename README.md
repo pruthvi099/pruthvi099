@@ -214,26 +214,31 @@ The goal is to build a practical, searchable knowledge base that can be used for
 **learning, interview preparation, framework development, and real-world testing**.
 
 ---
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&count_private=true"
-  />
-
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&theme=default&hide_border=true&langs_count=8"
-/>
-
+  <a href="https://github.com/pruthvi099">
+    <img src="https://img.shields.io/github/followers/pruthvi099?label=Followers&style=flat-square" />
+  </a>
+  <a href="https://github.com/pruthvi099?tab=repositories">
+    <img src="https://img.shields.io/github/stars/pruthvi099?affiliations=OWNER&style=flat-square" />
+  </a>
+  <a href="https://github.com/pruthvi099">
+    <img src="https://img.shields.io/github/last-commit/pruthvi099/Playwright-Automation-JS-TS?style=flat-square" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=pruthvi099&theme=default&hide_border=true"
-  />
+  <a href="https://github.com/pruthvi099?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Playwright%20%7C%20TypeScript%20%7C%20Python-blue?style=flat-square" />
+  </a>
+  <a href="https://github.com/pruthvi099">
+    <img src="https://img.shields.io/badge/Automation-UI%20%7C%20API%20%7C%20CI%2FCD-green?style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building reliable automation frameworks and continuously improving my SDET skills.</b>
 </p>
 
 ---
