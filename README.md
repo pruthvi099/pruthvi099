@@ -116,7 +116,7 @@ Not just a notes dump — a deliberately organized, numbered curriculum from **B
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect 🔁💻
 
 <p align="center">
   <a href="https://linkedin.com/in/pruthvirajpatankar">LinkedIn</a> ·
