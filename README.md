@@ -101,18 +101,6 @@ Not just a notes dump — a deliberately organized, numbered curriculum from **B
 - Two-tier index (root README + per-folder README) for fast navigation
 - Built one topic at a time, with daily commits, as a running record of real SDET learning — not a copy-paste tutorial archive
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pruthvi099&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi099&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi099&hide_border=true&theme=default" />
-</p>
 
 ---
 
