@@ -112,4 +112,4 @@ Not just a notes dump — a deliberately organized, numbered curriculum from **B
   <a href="mailto:pruthvi9931@gmail.com">Email</a>
 </p>
 
-<p align="center"><b>Build. Automate. Test. Improve. 🚀🔁💻</b></p>
+<p align="center"><b>Build. Automate. Test. Improve. 🔁💻</b></p>
